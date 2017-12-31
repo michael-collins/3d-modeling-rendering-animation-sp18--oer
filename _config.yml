@@ -1,0 +1,93 @@
+name: 3D Digital Art and Design Open Education Resource
+author: Michael Collins
+markdown: redcarpet
+redcarpet:
+    extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data", "lax_spacing"]
+baseurl: /3d-modeling-rendering-animation-sp18--oer
+permalink: pretty
+timezone: America/New_York
+future: true
+gems:
+  - jekyll-sitemap
+#directoy config ########################################
+#collections_dir: all_collections
+collections:
+  agenda:
+    output: true
+    permalink: /agenda/:title.html
+  lessons:
+    output: true
+    permalink: /lessons/:title.html
+  exercises:
+    output: true
+    permalink: /exercises/:title.html
+  projects:
+    output: true
+    permalink: /projects/:title.html
+  grading:
+    output: true
+    permalink: /grading/:title.html
+  syllabus:
+    output: true
+    permalink: /syllabus/:title.html
+  topics:
+    output: true
+    permalink: /topics/:title.html
+#exercises ########################################
+assignments:
+  - exercise: maya-modeling-image-planes
+    title: Intro to Modeling in Maya
+    subtitle: testing config
+    submission_link: 
+    comments_enabled:
+    published: true
+    assigned: 1/14/2016
+    due: 1/19/2016
+  - exercise: maya-texturing-objects
+    title: Intro to Texturing in Maya
+    subtitle: testing config
+    submission_link: 
+    comments_enabled:
+    published: true
+    assigned: 1/19/2016
+    due: 1/21/2016
+  - exercise: maya-animation-animating
+    title: Animating in Maya
+    subtitle:
+    submission_link: 
+    comments_enabled:
+    published: true
+    assigned: 1/26/2016
+    due: 1/28/2016
+#topics  ########################################
+topics:
+  - topic: modeling
+    title: Animating in Maya
+    layout: topic
+    submission_link: 
+    comments_enabled:
+    published: true
+    assigned: 1/26/2016
+    due: 1/28/2016
+#lessons  ########################################
+course:
+  unit:
+    lessons:
+      - lesson: maya-modeling
+        title: Modeling in Maya
+        subtitle: testing config
+        layout: lesson
+        submission_link: 
+        comments_enabled:
+        published: true
+        assigned: 1/26/2016
+        due: 1/28/2016
+      - lesson: maya-animation
+        subtitle: testing config
+        title: Texturing in Maya
+        layout: lesson
+        submission_link: 
+        comments_enabled:
+        published: true
+        assigned: 1/26/2016
+        due: 1/28/2016
