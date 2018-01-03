@@ -5,9 +5,10 @@ redcarpet:
     extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data", "lax_spacing"]
 baseurl: /3d-modeling-rendering-animation-sp18--oer
 permalink: pretty
+markdown: kramdown
 timezone: America/New_York
 future: true
-gems:
+plugins:
   - jekyll-sitemap
 #directoy config ########################################
 #collections_dir: all_collections
