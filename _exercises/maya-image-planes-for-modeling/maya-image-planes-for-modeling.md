@@ -21,9 +21,9 @@ In this exercise, you will set up modeling reference planes. Three-view referenc
 * * *
 ## Steps to Completion
 
-1) Watch tutorials from Lynda on using Maya’s interface
+1) Watch tutorials from Lynda on using Maya's interface
 
-2) Follow the tutorial, [Creating Modeling Reference Planes in May*a](https://docs.google.com/document/d/1IS2te9ZnpywXrXxbYN-3mbyK20YfAaePblz-CMXpfMY/edit?usp=sharing).
+2) Follow the tutorial, [Creating Modeling Reference Planes in Maya](https://docs.google.com/document/d/1IS2te9ZnpywXrXxbYN-3mbyK20YfAaePblz-CMXpfMY/edit?usp=sharing).
 
 3) After you have completed the tutorial, double-click on your _ex_1_xyz.zip_ file to ensure that it looks like the following image:
 
