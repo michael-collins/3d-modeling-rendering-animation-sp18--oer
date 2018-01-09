@@ -5,8 +5,9 @@ categories: exercise
 comments: false
 published: true
 excerpt: 
+dropbox-url: https://psu.box.com/v/art314sp18-exercise-1
 ---
 
 [Exercise 1 Documentation]({{ site.baseurl }}/exercises/maya-image-planes-for-modeling.html)
 
-**Upload by 2:30pm on {{ page.date | date: '%B %d, %Y' }}:** [Exercise 1 Dropbox](https://psu.box.com/signup/collablink/d_6058054237/11de68ae6b680c)
+**Upload by 2:30pm on {{ page.date | date: '%B %d, %Y' }}:** [Exercise 1 Dropbox]({{ page.dropbox-url }})
