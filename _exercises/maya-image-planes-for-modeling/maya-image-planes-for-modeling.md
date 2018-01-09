@@ -17,7 +17,6 @@ In this exercise, you will set up modeling reference planes. Three-view referenc
 
 [Creating Modeling Reference Planes in Maya](https://docs.google.com/document/d/10lqkDYPs3Qx6IcH6Z25TYVpU7M85QtxQMJ0P6VoBHwg/edit)
 
-**Textbook:** Mastering Autodesk Maya 2016 (Chapter 3: Creating Reference Planes)
 
 * * *
 ## Steps to Completion
