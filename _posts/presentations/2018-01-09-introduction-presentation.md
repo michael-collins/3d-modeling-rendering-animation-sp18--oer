@@ -7,6 +7,8 @@ transition: slide
 comments: true
 published: true
 excerpt: Introduction to the course. We will discuss the syllabus, Autodesk Maya's interface, and introduce the first assignment.
+course-start-time: 3:35pm
+syllabus-url: https://michael-collins.github.io/3d-modeling-rendering-animation-sp18--oer/syllabus/art314-spring2018.html
 ---
 <section data-markdown>
 ##Introduction to ART314: 3D Modeling, Rendering, and Animation
@@ -46,7 +48,7 @@ Tell us about yourself
 </section>
 <section data-markdown>
 ##Expectations _part 1_
-- Class starts at 2:30pm, be here 5 minutes early.
+- Class starts at {{ page.course-start-time }}, be here 5 minutes early.
 - Attendance is mandatory
 - Assignment deadlines are firm unless we decide to change them ahead of time
 - **Stop looking at all 'yer social medias!** Unless it's research or group communication on work. (for those of you currently logged in, please log out :).
@@ -113,9 +115,9 @@ Autodesk Student Software free! Register: [http://students.autodesk.com](http://
 <section data-markdown>
 ##Textbooks
 
-Introducing Autodesk Maya 2016: Autodesk Official Press _ISBN-10: 1119059631_ 
+Autodesk Maya 2018 Basics Guide _ISBN-10: 1630571121_
 
-Mastering Autodesk Maya 2016: Autodesk Official Press _ISBN-10: 1119059828_
+Autodesk Maya 2018: A Comprehensive Guide _ISBN-10: 1942689977_
 
 </section>
 <section data-markdown>
@@ -182,7 +184,7 @@ Johnny Likens - [IRON MAN 3 : HUD + GFX PROCESS REEL](https://vimeo.com/66944464
 <section data-markdown>
 ##Up Next
 
-1. [Syllabus and Schedule](http://michael-collins.github.io/3d-digital-art-and-design--oer/syllabus/art-314-syllabus.html)
+1. [Syllabus and Schedule]({{page.syllabus-url}})
 2. Autodesk Maya Demo
 3. Assignment
 

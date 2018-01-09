@@ -7,7 +7,7 @@ baseurl: /3d-modeling-rendering-animation-sp18--oer
 permalink: pretty
 markdown: kramdown
 timezone: America/New_York
-future: true
+future: false
 plugins:
   - jekyll-sitemap
 #directoy config ########################################
