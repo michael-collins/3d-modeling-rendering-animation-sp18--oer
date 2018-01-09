@@ -15,7 +15,7 @@ In this exercise, you will set up modeling reference planes. Three-view referenc
 
 [Lynda.com - Maya 2018 Interface](https://www.lynda.com/Maya-tutorials/Maya-2018-Essential-Training/604210-2.html?org=psu.edu)
 
-[Creating Modeling Reference Planes in Maya](https://docs.google.com/document/d/10lqkDYPs3Qx6IcH6Z25TYVpU7M85QtxQMJ0P6VoBHwg/edit)
+[Creating Modeling Reference Planes in Maya](https://docs.google.com/document/d/1IS2te9ZnpywXrXxbYN-3mbyK20YfAaePblz-CMXpfMY/edit?usp=sharing)
 
 
 * * *
