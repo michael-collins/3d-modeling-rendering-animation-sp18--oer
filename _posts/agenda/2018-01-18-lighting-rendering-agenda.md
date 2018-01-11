@@ -10,7 +10,8 @@ excerpt: Introduction to lighting and rendering in Autodesk Maya.
 ### Agenda
 
 1. **Video Screening**
-  - [The Third & The Seventh - Alex Roman (November 24, 2009)](https://vimeo.com/7809605)
+  - ["Goodbye Uncanny Valley"](https://vimeo.com/237568588) by Alan Warburton
+  - [The Third & The Seventh](https://vimeo.com/7809605) by Alex Roman \(November 24, 2009\)
 2. **Terminology**
   1. Shader
   2. Key
