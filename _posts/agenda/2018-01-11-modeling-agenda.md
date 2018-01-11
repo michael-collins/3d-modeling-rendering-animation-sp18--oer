@@ -40,4 +40,4 @@ excerpt: Introduction to modeling in Autodesk Maya.
    - Mirror Geometry
    - Curve Tool (CV - Control Vertext, EP - Edit Points)
    - Convert Nurbs to Polygons
-4. Assignment
+4. Modeling Assignment
