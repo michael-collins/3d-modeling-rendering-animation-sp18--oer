@@ -9,9 +9,7 @@ asset-path: /assets/exercise-images
 
  In this exercise, you will practice UV mapping and applying textures to surface shaders. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
 
-##Learning Resources
-
-###Tutorials:
+## Learning Resources
 
 **Level 1: Novice Students**  
 [Lynda.com - Textures and Materials](http://www.lynda.com/Maya-tutorials/Maya-Essentials-4-Creating-Textures-Materials/96717-2.html)
@@ -24,16 +22,9 @@ asset-path: /assets/exercise-images
 
 **Level 3: Experienced Students**  
 [Lynda.com - ZBrush Essential Training](http://www.lynda.com/ZBrush-4-tutorials/Essential-Training/76980-2.html) (Lessons 7 - 10)  
-[Lynda.com - ZBrush Character](http://www.lynda.com/3D-Animation-Character-Design-tutorials/Digital-Creature-Creation-in-ZBrush-Photoshop-and-Maya/83781-2.html) (Lessons 6 - 9)  
+[Lynda.com - ZBrush Character](http://www.lynda.com/3D-Animation-Character-Design-tutorials/Digital-Creature-Creation-in-ZBrush-Photoshop-and-Maya/83781-2.html) (Lessons 6 - 9)
 
-**More Information:**  
-Textbook: Introducing Autodesk Maya 2016  
-Chapter 7
-
-Textbook: Mastering Autodesk Maya 2016  
-Chapter 11
-
-##Steps to Completion
+## Steps to Completion
 
 **Choose a single level to complete based on your level of experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.**
 
@@ -204,5 +195,5 @@ Chapter 11
 
 * * *
 
-##Grading
+## Grading
 Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 

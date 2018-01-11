@@ -9,9 +9,9 @@ asset-path: /assets/exercise-images
 
 In this exercise, you will gain basic understanding of modeling fundamentals. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
 
-##Learning Resources
+## Learning Resources
 
-###Tutorials:
+### Tutorials:
 
 **Level 1: Novice Students**
 
@@ -33,16 +33,7 @@ In this exercise, you will gain basic understanding of modeling fundamentals. Th
 
 [Random Objects Generator](http://www.randomlists.com/things)
 
-**More Information:**
-
-Textbook: Introducing Autodesk Maya 2016  
-Chapter 4 and Chapter 5
-
-Textbook: Mastering Autodesk Maya 2016  
-Chapter 3 and Chapter 4
-
-
-##Steps to Completion
+## Steps to Completion
 
 Choose a either level 1, level 2, or level 3 to complete based on your prior experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.
 
@@ -201,7 +192,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 
 * * *
 
-##Grading
+## Grading
 Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 
 
 

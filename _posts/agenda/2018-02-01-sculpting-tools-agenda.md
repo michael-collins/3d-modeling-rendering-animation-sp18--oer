@@ -3,7 +3,7 @@ layout: post
 title: Maya Sculpting and Curve Modeling Tools
 categories: agenda
 comments: false
-published: true
+published: false
 excerpt: Let's take a look at some Maya sculpting and curve modeling workflows.
 ---
 

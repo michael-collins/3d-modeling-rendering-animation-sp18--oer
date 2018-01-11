@@ -1,11 +1,13 @@
 ---
-layout: post
-title: Exercise 10 Due
-categories: test
-comments: true
+layout: schedule-post
+title: Exercise 9 Due
+assignment: exercise-9
+categories: exercise
+comments: false
 published: false
 ---
+**Submit by {{ site.assignments.[page.assignment].due-date }}:**
 
-[Exercise 10 Documentation]({{ site.baseurl }}/exercises/maya-dynamics.html)
+<i class="far fa-file-alt"></i>[{{ site.assignments.[page.assignment].title }} Documentation]({{ site.baseurl }}{{site.assignments.[page.assignment].doc}})
 
-**Upload by 2:30pm:** [Exercise 10 Dropbox](https://psu.box.com/signup/collablink/d_6058209749/11f5efd3c7a4c4)
+<i class="fas fa-cloud-upload-alt"></i>[Assignment Dropbox]({{ site.assignments.[page.assignment].dropbox-url }})

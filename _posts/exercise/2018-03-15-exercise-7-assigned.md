@@ -1,13 +1,13 @@
 ---
-layout: post
+layout: schedule-post
 title: Exercise 7 Assigned
+assignment: exercise-7
 categories: exercise
 comments: false
-published: true
-assignment-dropbox: https://psu.box.com/signup/collablink/d_6058207793/17af152633c7b9
-assignment-doc: /exercises/maya-rigging.html
+published: false
 ---
+**Submit by {{ site.assignments.[page.assignment].due-date }}:**
 
-[Exercise 7 Documentation]({{ site.baseurl }}/{{ page.assignment-doc }})
+<i class="far fa-file-alt"></i>[{{ site.assignments.[page.assignment].title }} Documentation]({{ site.baseurl }}{{site.assignments.[page.assignment].doc}})
 
-**Upload by 2:30pm:** [Exercise 7 Dropbox]({{ page.assignment-dropbox }})
+<i class="fas fa-cloud-upload-alt"></i>[Assignment Dropbox]({{ site.assignments.[page.assignment].dropbox-url }})

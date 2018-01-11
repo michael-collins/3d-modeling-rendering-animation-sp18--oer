@@ -2,8 +2,8 @@
 layout: post
 title: Project 1 Statement Due
 categories: project
-comments: true
-published: true
+comments: false
+published: false
 assignment-dropbox: https://psu.box.com/signup/collablink/d_6330622361/13671f0b80e52a
 assignment-doc: /projects/speculative-design.html
 ---

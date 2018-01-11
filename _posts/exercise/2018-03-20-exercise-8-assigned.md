@@ -1,13 +1,13 @@
 ---
-layout: post
+layout: schedule-post
 title: Exercise 8 Assigned
+assignment: exercise-8
 categories: exercise
 comments: false
-published: true
-assignment-dropbox: https://psu.box.com/signup/collablink/d_6058208509/13048f751411ea
-assignment-doc: /exercises/maya-animated-textures.html
+published: false
 ---
+**Submit by {{ site.assignments.[page.assignment].due-date }}:**
 
-[Exercise 8 Documentation]({{ site.baseurl }}/{{ page.assignment-doc }})
+<i class="far fa-file-alt"></i>[{{ site.assignments.[page.assignment].title }} Documentation]({{ site.baseurl }}{{site.assignments.[page.assignment].doc}})
 
-**Upload by 2:30pm:** [Exercise 8 Dropbox]({{ page.assignment-dropbox }})
+<i class="fas fa-cloud-upload-alt"></i>[Assignment Dropbox]({{ site.assignments.[page.assignment].dropbox-url }})

@@ -3,7 +3,7 @@ layout: post
 title: Introduction to Animation in Maya
 categories: agenda
 comments: false
-published: true
+published: false
 excerpt: Introduction to animation in Autodesk Maya.
 ---
 

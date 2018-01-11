@@ -1,13 +1,13 @@
 ---
-layout: post
-title: Modeling in Maya Due
+layout: schedule-post
+title: Exercise 2 Due
+assignment: exercise-2
 categories: exercise
 comments: false
-published: true
-assignment-dropbox: https://psu.box.com/signup/collablink/d_6058204285/11915a00eb1b89
-assignment-doc: /exercises/maya-modeling.html
+published: false
 ---
+**Submit by {{ site.assignments.[page.assignment].due-date }}:**
 
-[Exercise 2 Documentation]({{ site.baseurl }}/{{ page.assignment-doc }})
+<i class="far fa-file-alt"></i>[{{ site.assignments.[page.assignment].title }} Documentation]({{ site.baseurl }}{{site.assignments.[page.assignment].doc}})
 
-**Upload by 2:30pm:** [Exercise 2 Dropbox]({{ page.assignment-dropbox }})
+<i class="fas fa-cloud-upload-alt"></i>[Assignment Dropbox]({{ site.assignments.[page.assignment].dropbox-url }})

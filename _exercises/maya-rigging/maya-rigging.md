@@ -10,7 +10,7 @@ asset-path: /assets/exercise-images
 In this exercise, you will practice creating a rig for a polygon mesh and adding deformers. Level 1 students will create a simple biped rig starting with [this project file](https://drive.google.com/file/d/0BzXX6rmROMNWOEFkZ2hjZnJORU0/view?usp=sharing). Level 2 and 3 students will create more complex polygonal biped character meshes and rigs.
 
 
-###Tutorials:
+## Learning Resources:
 
 **Level 1: Novice Students**
 
@@ -34,7 +34,7 @@ Digital Tutors: [12 Principles of Animation](http://www.digitaltutors.com/11/tra
 
 Lynda Tutorials: [Animation Principles](http://www.lynda.com/Maya-tutorials/Character-Animation-Fundamentals-with-Maya/54994-2.html)
 
-##Steps to Completion
+## Steps to Completion
 
 Choose a either level 1, level 2, or level 3 to complete based on your prior experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.
 

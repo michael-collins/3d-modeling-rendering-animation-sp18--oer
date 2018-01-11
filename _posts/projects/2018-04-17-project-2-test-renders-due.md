@@ -2,8 +2,8 @@
 layout: post
 title: Project 2 Test Renders Due
 categories: project
-comments: true
-published: true
+comments: false
+published: false
 assignment-dropbox: https://psu.box.com/signup/collablink/d_7101553017/386ea38d09c2b
 assignment-doc: projects/thirty-seconds-of-sound.html
 excerpt:

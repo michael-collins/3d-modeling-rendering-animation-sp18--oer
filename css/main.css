@@ -41,6 +41,18 @@ li.tab a {
 a.oer-title {
 	font-size: 1.3rem;
 }
+.schedule-post {
+	border: 2px solid #ccc;
+	padding: 3rem 2rem 1rem;
+	margin-bottom: 5rem;
+}
+.schedule-post a {
+	margin-left: 0.8rem;
+}
+.schedule-post p {
+	font-size: 1.25rem;
+  margin: 0 0 2rem 0;
+}
 /* .collapsible.popout>li {
 	-webkit-box-shadow:none !important;
 	box-shadow:none !important;

@@ -73,5 +73,5 @@ In this exercise, you will gain introductory understanding of modeling, renderin
 
 * * *
 
-##Grading
+## Grading
 Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 

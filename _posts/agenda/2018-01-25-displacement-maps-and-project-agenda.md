@@ -3,7 +3,7 @@ layout: post
 title: Displacement Maps and Project 1 Intro
 categories: agenda
 comments: false
-published: true
+published: false
 excerpt: We will discuss displacement maps, sun and sky lighting, and talk about Project 1.
 ---
 

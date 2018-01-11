@@ -2,7 +2,7 @@
 layout: post
 title: Introduction to ART 314 - 3D Modeling, Rendering, and Animation
 categories: agenda
-comments: true
+comments: false
 published: true
 excerpt: Introduction to the course. We will discuss the syllabus, Autodesk Maya's interface, and introduce the first assignment.
 ---

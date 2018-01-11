@@ -1,13 +1,13 @@
 ---
-layout: post
+layout: schedule-post
 title: Exercise 4 Assigned
+assignment: exercise-4
 categories: exercise
-comments: true
-published: true
-assignment-dropbox: https://psu.box.com/signup/collablink/d_6058205621/11e086038985f5
-assignment-doc: /exercises/maya-mentalray-lighting-and-rendering.html
+comments: false
+published: false
 ---
+**Submit by {{ site.assignments.[page.assignment].due-date }}:**
 
-[Exercise 4 Documentation]({{ site.baseurl }}/{{ page.assignment-doc }})
+<i class="far fa-file-alt"></i>[{{ site.assignments.[page.assignment].title }} Documentation]({{ site.baseurl }}{{site.assignments.[page.assignment].doc}})
 
-**Upload by 2:30pm:** [Exercise 4 Dropbox]({{ page.assignment-dropbox }})
+<i class="fas fa-cloud-upload-alt"></i>[Assignment Dropbox]({{ site.assignments.[page.assignment].dropbox-url }})

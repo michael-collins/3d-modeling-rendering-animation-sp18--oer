@@ -16,7 +16,7 @@
 {% endif %}
 
     <h5 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}"><span class="post-title">{{ post.title }}</span></a><span class="post-type {{post.categories}}"> ( {{post.categories}} )</span></h5>
-    <div class="post-content">{{ post.excerpt }}</div>
+    
 
 {% if forloop.last %}
 </li>

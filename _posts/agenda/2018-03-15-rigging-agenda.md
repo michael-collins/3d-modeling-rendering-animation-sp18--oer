@@ -3,7 +3,7 @@ layout: post
 title: Introduction to Rigging in Maya
 categories: agenda
 comments: false
-published: true
+published: false
 excerpt: Introduction to rigging in Autodesk Maya.
 ---
 

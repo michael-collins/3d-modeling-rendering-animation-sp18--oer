@@ -3,7 +3,7 @@ layout: post
 title: Modeling with Booleans and Rendering Masks
 categories: agenda
 comments: false
-published: true
+published: false
 excerpt: We will discuss boolean operations and masks.
 ---
 

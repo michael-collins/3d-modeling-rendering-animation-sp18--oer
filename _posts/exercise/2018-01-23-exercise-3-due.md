@@ -1,13 +1,13 @@
 ---
-layout: post
+layout: schedule-post
 title: Exercise 3 Due
+assignment: exercise-3
 categories: exercise
-comments: true
-published: true
-assignment-dropbox: https://psu.box.com/signup/collablink/d_6058204921/115199876a709b
-assignment-doc: /exercises/maya-texturing.html
+comments: false
+published: false
 ---
+**Submit by {{ site.assignments.[page.assignment].due-date }}:**
 
-[Exercise 3 Documentation]({{ site.baseurl }}/{{ page.assignment-doc }})
+<i class="far fa-file-alt"></i>[{{ site.assignments.[page.assignment].title }} Documentation]({{ site.baseurl }}{{site.assignments.[page.assignment].doc}})
 
-**Upload by 2:30pm:** [Exercise 3 Dropbox]({{ page.assignment-dropbox }})
+<i class="fas fa-cloud-upload-alt"></i>[Assignment Dropbox]({{ site.assignments.[page.assignment].dropbox-url }})

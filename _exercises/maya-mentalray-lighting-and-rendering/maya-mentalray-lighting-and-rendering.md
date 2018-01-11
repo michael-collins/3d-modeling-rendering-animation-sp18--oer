@@ -12,9 +12,9 @@ In this exercise, you will practice uv mapping, lighting, and rendering. There a
 ![image alt text]({{ site.baseurl }}{{ page.asset-path }}/maya-mentalray-lighting-and-rendering-0.png)
 
 
-#Learning Resources
+# Learning Resources
 
-##Tutorials:
+## Tutorials:
 
 **Level 1: Novice Students**  
 [Lynda.com - Essential Training](http://www.lynda.com/Maya-tutorials/Maya-2016-Essential-Training)
@@ -44,7 +44,7 @@ Chapter 10 and 11
 Textbook: Mastering Autodesk Maya 2015  
 Chapter 9 and 10
 
-#Steps to Completion
+## Steps to Completion
 
 **Choose a single level to complete based on your level of experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.**
 
@@ -242,5 +242,5 @@ Chapter 9 and 10
 
 * * *
 
-##Grading
+## Grading
 Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 

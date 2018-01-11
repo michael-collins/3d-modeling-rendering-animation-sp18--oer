@@ -1,13 +1,13 @@
 ---
-layout: post
+layout: schedule-post
 title: Exercise 6 Assigned
+assignment: exercise-6
 categories: exercise
-comments: true
-published: true
-assignment-dropbox: https://psu.box.com/signup/collablink/d_6058207193/113696a8f0e644
-assignment-doc: /exercises/maya-animation.html
+comments: false
+published: false
 ---
+**Submit by {{ site.assignments.[page.assignment].due-date }}:**
 
-[Exercise 6 Documentation]({{ site.baseurl }}/{{ page.assignment-doc }})
+<i class="far fa-file-alt"></i>[{{ site.assignments.[page.assignment].title }} Documentation]({{ site.baseurl }}{{site.assignments.[page.assignment].doc}})
 
-**Upload by 2:30pm:** [Exercise 6 Dropbox]({{ page.assignment-dropbox }})
+<i class="fas fa-cloud-upload-alt"></i>[Assignment Dropbox]({{ site.assignments.[page.assignment].dropbox-url }})

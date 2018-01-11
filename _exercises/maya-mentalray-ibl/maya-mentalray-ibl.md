@@ -9,9 +9,9 @@ asset-path: /assets/exercise-downloads
 
 In this exercise, you will practice uv mapping, lighting, and rendering. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
 
-#Learning Resources
+# Learning Resources
 
-##Tutorials:
+## Tutorials:
 
 **Level 1: Novice Students**  
 [Image Based Lighting](https://www.youtube.com/watch?v=cKul2-bmBwY)  
@@ -45,7 +45,7 @@ In this exercise, you will practice uv mapping, lighting, and rendering. There a
 
 Textbook: Mastering Autodesk Maya 2016 (Page 355)
 
-#Steps to Completion
+## Steps to Completion
 
 **Choose a single level to complete based on your level of experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.**
 
@@ -255,5 +255,5 @@ Textbook: Mastering Autodesk Maya 2016 (Page 355)
 
 * * *
 
-##Grading
+## Grading
 Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 

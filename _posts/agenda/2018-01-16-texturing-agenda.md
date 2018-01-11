@@ -3,7 +3,7 @@ layout: post
 title: Introduction to Texturing in Maya
 categories: agenda
 comments: false
-published: true
+published: false
 excerpt: Introduction to texturing in Autodesk Maya.
 ---
 

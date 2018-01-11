@@ -188,5 +188,5 @@ Import/Export After Effects: [After Effects Image Sequence to H.264](https://doc
 
 * * *
 
-##Grading
+## Grading
 Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading).

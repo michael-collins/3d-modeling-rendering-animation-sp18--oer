@@ -166,9 +166,7 @@ d) **Quality Tab:**
 * * *
 
 
-**Grading**
-
-**  **
+## Grading
 
 Your grade will be assessed according to the [Exercise Grading Criteria](https://docs.google.com/document/d/16KERm1NWgcl8CH-fPwGSSW0RJYlXDCOCwVM8WrRVuKw/edit?usp=sharing). 
 

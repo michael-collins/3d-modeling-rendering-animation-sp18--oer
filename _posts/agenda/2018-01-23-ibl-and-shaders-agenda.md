@@ -3,7 +3,7 @@ layout: post
 title: IBL and Mentalray Materials Rendering
 categories: agenda
 comments: false
-published: true
+published: false
 excerpt: IBL lighting and Mentalray materials.
 ---
 

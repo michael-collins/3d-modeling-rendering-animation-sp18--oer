@@ -9,7 +9,7 @@ asset-path: /assets/exercise-images
 
 In this exercise, you will produce render passes and composite your renders together in Photoshop to create the final image.
 
-##Learning Resources
+## Learning Resources
 
 **Level 1 and 2: Novice, Intermediate**
 
@@ -39,7 +39,7 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
 [Autodesk White Paper](http://images.autodesk.com/adsk/files/maya_render_pass_concepts_and_techniques_whitepaper_us.pdf)
 
 
-##Steps to Completion
+## Steps to Completion
 
 **Choose a single level to complete based on your level of experience with 3D tools. If you are a novice, choose Level 1. If you have some experience, choose Level 2. If you are very experienced with 3D tools, choose Level 3.**
 
@@ -184,5 +184,5 @@ Youtube: [http://youtu.be/RJoSIySo4tw](http://youtu.be/RJoSIySo4tw)
 
 * * *
 
-##Grading
+## Grading
 Your grade will be assessed according to the [Exercise Grading Criteria]({{ site.baseurl }}/grading). 

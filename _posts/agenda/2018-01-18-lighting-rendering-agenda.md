@@ -3,7 +3,7 @@ layout: post
 title: Lighting and Rendering in Maya
 categories: agenda
 comments: false
-published: true
+published: false
 excerpt: Introduction to lighting and rendering in Autodesk Maya.
 ---
 

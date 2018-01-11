@@ -1,13 +1,14 @@
 ---
-layout: post
+layout: schedule-post
 title: Exercise 1 Due
+assignment: exercise-1
 categories: exercise
 comments: false
 published: true
-excerpt: 
-dropbox-url: https://psu.box.com/v/art314sp18-exercise-1
 ---
+**Submit by {{ site.assignments.[page.assignment].due-date }}:**
 
-[Exercise 1 Documentation]({{ site.baseurl }}/exercises/maya-image-planes-for-modeling.html)
+<i class="far fa-file-alt"></i>[{{ site.assignments.[page.assignment].title }} Documentation]({{ site.baseurl }}{{site.assignments.[page.assignment].doc}})
 
-**Upload by 2:30pm on {{ page.date | date: '%B %d, %Y' }}:** [Exercise 1 Dropbox]({{ page.dropbox-url }})
+<i class="fas fa-cloud-upload-alt"></i>[Assignment Dropbox]({{ site.assignments.[page.assignment].dropbox-url }})
+    
