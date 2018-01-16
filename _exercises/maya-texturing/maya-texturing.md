@@ -36,7 +36,7 @@ asset-path: /assets/exercise-images
 2. Create a new project folder called **_{{ page.submission-id }}-L1_***.*
 3. Set your project to the downloaded folder by choosing **File** → **Set Project**.
 4. Create your folder structure by choosing **File** → **Project Window → ****_Accept_**.
-5. Build a spaceship using no more than 150 tris. (Example: [Kenneth Fejer](http://www.kennethfejer.com/lowpoly.html))
+5. Build a spaceship using no more than 150 tris. Example: [Low Poly Spaceship](https://sketchfab.com/models/0254f0be6e3142ec942428aa59370d6d)
 6. Go to **Create UVs** and choose an appropriate mapping tool.
 7. Organize your UV layout with the **UV Texture Editor **tool.
 8. Export your UV layout from the **UV Texture Editor → Polygons → ****UV Snapshot** with a resolution of 1024px by 1024px to the *sourceimages* folder as **_uv-{{ page.submission-id }}.jpg_**.
