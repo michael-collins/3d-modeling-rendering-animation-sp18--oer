@@ -1,9 +1,9 @@
 ---
 layout: schedule-post
-title: Exercise 4 Assigned
+title: Exercise 4 Due
 assignment: exercise-4
 categories: exercise
 comments: false
-published: false
+published: true
 ---
 {% include schedule-post-assignment.html %}

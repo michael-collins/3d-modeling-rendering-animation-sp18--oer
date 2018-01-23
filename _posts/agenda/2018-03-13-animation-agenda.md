@@ -10,6 +10,7 @@ excerpt: Introduction to animation in Autodesk Maya.
 ### Agenda
 
 1. Screenings
+  - [Primitives](https://vimeo.com/194250040) by Alan Warburton
   - [Illusion of Life](https://vimeo.com/93206523)
   - [Berlin Tetris](https://vimeo.com/6736261)
   - [Mac n Cheese](https://vimeo.com/27127177)
