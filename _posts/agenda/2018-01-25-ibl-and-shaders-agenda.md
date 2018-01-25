@@ -16,8 +16,8 @@ excerpt:
 2. **Reading**
   - [FX Guide: "Art of Rendering"](https://www.fxguide.com/featured/the-art-of-rendering/)
 3. **Resources**
-  - HDRI Download: http://goo.gl/S6YBuF \(122 MB\)
-  - http://www.lughertexture.com/spherical-hdri-360/spherical-360-interior-room-hdri
+  - HDRI Download: [http://goo.gl/S6YBuF](http://goo.gl/S6YBuF) \(122 MB\)
+  - [http://www.lughertexture.com/spherical-hdri-360/spherical-360-interior-room-hdri](http://www.lughertexture.com/spherical-hdri-360/spherical-360-interior-room-hdri)
 4. **Job Reel**
   - Lighting Technical Director: https://vimeo.com/200015451
   - Student Reel, Cindy Jang: https://vimeo.com/52911102
