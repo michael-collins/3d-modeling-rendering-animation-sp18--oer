@@ -18,8 +18,8 @@ excerpt: Introduction to lighting and rendering in Autodesk Maya.
   4. Rim, Backlight
   5. Stage
   7. Lambert, Blinn
-  9. Bevels and highlights
-  10. Area lighting, spot light, ambient light, directional light, point light
+  9. Edge bevels and highlights
+  10. Arnold area light, spot light, ambient light, directional light, point light
   11. Depth of Field
   12. Shadows
   13. Falloff
