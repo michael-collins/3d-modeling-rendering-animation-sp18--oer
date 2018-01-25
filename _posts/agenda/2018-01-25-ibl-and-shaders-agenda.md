@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Layered Shader
+title: Lighting and Rendering Continuted
 categories: agenda
 comments: false
 published: true
