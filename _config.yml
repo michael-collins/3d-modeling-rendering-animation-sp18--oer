@@ -82,7 +82,37 @@ assignments:
     due-date: 2:30pm on April 3, 2018
     dropbox-url: https://psu.box.com/v/art314sp18-exercise-9
     title: Exercise 9
-    doc: 
+    doc: /exercises/dynamics.html
+  project-1:
+    doc: /projects/speculative-design.html
+    concepts:
+      due-date: 2:30pm on February 1, 2018
+      dropbox-url: https://psu.box.com/v/art314sp18-pr-1-concepts
+      title: Project 1 Concepts
+    wireframes:
+      due-date: 2:30pm on February 8, 2018
+      dropbox-url: https://psu.box.com/v/art314sp18-pr-1-wireframes
+      title: Project 1 Wireframes
+    look-development:
+      due-date: 2:30pm on February 13, 2018
+      dropbox-url: https://psu.box.com/v/art314sp18-pr-1-look-dev
+      title: Project 1 Look Development
+    draft-renders:
+      due-date: 2:30pm on February 15, 2018
+      dropbox-url: https://psu.box.com/v/art314sp18-pr-1-draft-renders
+      title: Project 1 Draft Renders
+    draft-statement:
+      due-date: 2:30pm on February 22, 2018
+      dropbox-url: https://psu.box.com/v/art314sp18-pr-1-draftstatement
+      title: Project 1 Draft Statement
+    final-statement:
+      due-date: 2:30pm on February 27, 2018
+      dropbox-url: https://psu.box.com/v/art314sp18-pr-1-finalstatement
+      title: Project 1 Final Statement
+    final-submission:
+      due-date: 2:30pm on February 27, 2018
+      dropbox-url: https://psu.box.com/v/art314sp18-pr-1-submission
+      title: Project 1 Final Submission
   # - exercise: maya-modeling-image-planes
   #   title: Intro to Modeling in Maya
   #   subtitle: testing config

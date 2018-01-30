@@ -8,7 +8,7 @@ asset-path: /assets/exercise-images
 
 In this exercise, you will practice uv mapping, lighting, and rendering. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
 
-![image alt text]({{ site.baseurl }}{{ page.asset-path }}/maya-mentalray-lighting-and-rendering-0.png)
+![image alt text]({{ site.baseurl }}{{ page.asset-path }}/maya-arnold-lighting-and-rendering-0.png)
 
 
 # Learning Resources
@@ -79,7 +79,7 @@ Chair History: [Random History](http://www.randomhistory.com/2008/11/11_chair.ht
 17. From the Arnold Render View, choose **Save Image \(color-corrected\)** and save it as **_render-{{ page.submission-id }}.jpg_** in the images folder.
 17. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
 18. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
-19. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+19. Upload the .zip file to the submission dropbox.
 20. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 1_ folder structure**
@@ -164,7 +164,7 @@ Chair History: [Random History](http://www.randomhistory.com/2008/11/11_chair.ht
   **_render2-{{ page.submission-id }}.jpg_**  
   **_render3-{{ page.submission-id }}.jpg_**
 17. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
-18. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+18. Upload the .zip file to the submission dropbox.
 19. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 2_ folder structure**
@@ -219,7 +219,7 @@ Chair History: [Random History](http://www.randomhistory.com/2008/11/11_chair.ht
   **_front-{{ page.submission-id }}.jpg_**  
   **_quarter-{{ page.submission-id }}.jpg_**  
 7. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
-8. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+8. Upload the .zip file to the submission dropbox.
 9. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 3_ folder structure**

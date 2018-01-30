@@ -1,5 +1,5 @@
 ---
-title: Maya Mentalray IBL
+title: PBR and NPR Rendering
 subtitle: 
 layout: exercise
 submission-id: mr-ibl-YOURSTUDENTID
@@ -7,7 +7,7 @@ assignment-dropbox: https://psu.box.com/signup/collablink/d_6058206453/11f024784
 asset-path: /assets/exercise-downloads
 ---
 
-In this exercise, you will practice uv mapping, lighting, and rendering. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
+In this exercise, we will explore two different rendering techniques.
 
 # Learning Resources
 
@@ -203,9 +203,9 @@ Textbook: Mastering Autodesk Maya 2016 (Page 355)
 2. Using the techniques learned in the Digital Creature Creation tutorials, continue working on your model.
 3. Light your image with an Image Based Lighting node and additional lights as needed.
 4. Add a **mila_material** layer shader to your model with diffuse(scatter) set as the base. Add as many layers as needed to reach a high level of detail and visual interest to your model as desired. 
-5. Enable Mental Ray as the rendering engine in the render settings.
+5. Enable Arnold as the rendering engine in the render settings.
 6. Match the following render settings:  
-  Render using **Mental Ray**  
+  Render using **Arnold**  
   **Quality Tab**  
     a. Overall Quality: 2 
     b. Indirect Diffuse (GI) Mode: Finalgather  
@@ -216,7 +216,7 @@ Textbook: Mastering Autodesk Maya 2016 (Page 355)
 9. Import your rendered EXR image into Photoshop or Aftereffects and use HDR Tone (Photoshop) or EXtracteR (Aftereffects) to improve the image's contrast. You can perform additional manipulations to the image to finalize the render.
 10. Save the final image as final-{{ page.submission-id }}.jpg
 11. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
-12. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+12. Upload the .zip file to the submission dropbox.
 13. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 3_ folder structure**

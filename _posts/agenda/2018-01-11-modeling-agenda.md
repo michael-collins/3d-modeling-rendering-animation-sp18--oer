@@ -14,7 +14,8 @@ excerpt: Introduction to modeling in Autodesk Maya.
    - Ed Catmull and Fred Parke: [A Computer Animated Hand](https://vimeo.com/16292363)
    - [The Adventures of André & Wally B.](https://www.youtube.com/watch?v=C-L-WA-nQzI), The Graphics Group at Lucasfilm, renamed Pixar, \(1984\)
    - [3D Portrait](https://www.youtube.com/watch?time_continue=9&v=4GiLAOtjHNo)
-2. **Terminology**
+2. [Checkmate Modeling Standard](https://www.turbosquid.com/CheckMate)
+3. **Terminology**
    - Polygon
    - Quad
    - Nurb
@@ -28,7 +29,7 @@ excerpt: Introduction to modeling in Autodesk Maya.
    - Non-manifold Geometry
      - Typically causes render and rigging errors
    - [Platonic Solid](https://www.youtube.com/watch?v=C36h00d7xGs)
-3. **Modeling Demo**
+4. **Modeling Demo**
    - Comonent Editor
    - Snapping
    - Extrude
@@ -40,4 +41,4 @@ excerpt: Introduction to modeling in Autodesk Maya.
    - Mirror Geometry
    - Curve Tool (CV - Control Vertext, EP - Edit Points)
    - Convert Nurbs to Polygons
-4. Modeling Assignment
+5. Modeling Assignment

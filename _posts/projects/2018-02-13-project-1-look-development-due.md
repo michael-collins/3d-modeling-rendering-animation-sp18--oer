@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Project 1 Final Renders Due
+title: Project 1 Look Development Due
 categories: project
 comments: false
-published: false
-assignment-dropbox: https://psu.box.com/signup/collablink/d_6330622361/13671f0b80e52a
-assignment-doc: /projects/speculative-design.html
+published: true
+assignment-dropbox: https://psu.box.com/v/project-1-look-development
+assignment-doc: projects/speculative-design.html
 ---
 
 [Project 1 Documentation]({{ site.baseurl }}/{{ page.assignment-doc }})  
