@@ -18,4 +18,4 @@ excerpt: We will discuss displacement maps, sun and sky lighting, and talk about
   - [Arnold Rendering Blog](https://arnold-rendering.com/)
 3. **Terminology**
   - [Arnold Displacement Maps](https://support.solidangle.com/display/AFMUG/Displacement)
-4. **Project 1**
+4. **[Project 1]({{site.assignments.project-1.doc}})**

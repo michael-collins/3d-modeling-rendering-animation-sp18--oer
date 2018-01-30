@@ -3,13 +3,10 @@ title: Speculative Design
 subtitle: Imagining design fictions
 layout: project
 ---
-# Un-nature
 
 For this project, you will create three images that respond to the theme, **Un-nature**. You will design, model, texture, and render a series of speculative objects and critically reflect on how your images relate to the theme in a 150 word work statement.
 
 You will be producing a design fiction aimed at highlighting how the nature of an object could be changed to make it ideal. You will decide what kind of attributes make an object ideal, and for what purpose. In this way, you are creating ideal objects. This fiction can take place in any time period, and can be naturally occurring, manufactured, synthetic, biological, or a mix.
-
-These images will be presented as if they were part of a magazine advertisement of a product.
 
 The subject of [speculative design](https://vimeo.com/search?q=speculative+design) is the main topic for the book, _[Speculative Everything](http://www.amazon.com/Speculative-Everything-Design-Fiction-Dreaming/dp/0262019841/)_, by Dunne and Raby. An excerpt reads:
 >"a shift from designing for how the world is ... to designing for how the world could be"

@@ -84,7 +84,7 @@ assignments:
     title: Exercise 9
     doc: /exercises/dynamics.html
   project-1:
-    doc: /projects/speculative-design.html
+    doc: projects/speculative-design.html
     concepts:
       due-date: 2:30pm on February 1, 2018
       dropbox-url: https://psu.box.com/v/art314sp18-pr-1-concepts
