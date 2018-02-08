@@ -1,8 +1,8 @@
 ---
 layout: schedule-post
-title: Project 1 Look Development Due
+title: Project 1 Wireframes Due
 assignment: project-1
-assignment-part: look-development
+assignment-part: wireframes
 categories: project
 comments: false
 published: true
