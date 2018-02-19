@@ -89,10 +89,12 @@ assignments:
       due-date: 2:30pm on February 1, 2018
       dropbox-url: https://psu.box.com/v/art314sp18-pr-1-concepts
       title: Project 1 Concepts
+      doc: projects/speculative-design.html
     wireframes:
       due-date: 2:30pm on February 8, 2018
       dropbox-url: https://psu.box.com/v/art314sp18-pr-1-wireframes
       title: Project 1 Wireframes
+      doc: projects/speculative-design.html
     look-development:
       due-date: 2:30pm on February 13, 2018
       dropbox-url: https://psu.box.com/v/art314sp18-pr-1-look-dev
@@ -101,18 +103,22 @@ assignments:
       due-date: 2:30pm on February 15, 2018
       dropbox-url: https://psu.box.com/v/art314sp18-pr-1-draft-renders
       title: Project 1 Draft Renders
+      doc: projects/speculative-design.html
     draft-statement:
       due-date: 2:30pm on February 22, 2018
       dropbox-url: https://psu.box.com/v/art314sp18-pr-1-draftstatement
       title: Project 1 Draft Statement
+      doc: projects/speculative-design.html
     final-statement:
       due-date: 2:30pm on February 27, 2018
       dropbox-url: https://psu.box.com/v/art314sp18-pr-1-finalstatement
       title: Project 1 Final Statement
+      doc: projects/speculative-design.html
     final-submission:
       due-date: 2:30pm on February 27, 2018
       dropbox-url: https://psu.box.com/v/art314sp18-pr-1-submission
       title: Project 1 Final Submission
+      doc: projects/speculative-design.html
   # - exercise: maya-modeling-image-planes
   #   title: Intro to Modeling in Maya
   #   subtitle: testing config
