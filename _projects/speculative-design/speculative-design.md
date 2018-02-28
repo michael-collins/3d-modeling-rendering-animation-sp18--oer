@@ -69,3 +69,5 @@ All deliverables will be uploaded to the linked dropboxes.
   - Minimum Image Size: 1080 HD preset
 7. **Revised work statement \({{ site.assignments.project-1.final-statement.due-date }}\)** [Dropbox]({{site.assignments.project-1.final-statement.dropbox-url}})
   - Write and add a statement format named (min 150 words) called **_statement-final.doc_** to the **_statement_** folder
+8. **OPTIONAL: Post critique work updates\({{ site.assignments.project-1.post-work-revision.due-date }}\)** [Dropbox]({{site.assignments.project-1.post-work-revision.dropbox-url}})
+  - Upload any work revisions to this folder. Be sure to ZIP and name files.
