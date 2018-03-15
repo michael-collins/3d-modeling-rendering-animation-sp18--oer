@@ -3,7 +3,6 @@ title: Maya Animation
 subtitle: 
 layout: exercise
 submission-id: animation-YOURSTUDENTID
-assignment-dropbox: https://psu.box.com/signup/collablink/d_6058207193/137cca0b23bb95
 asset-path: /assets/exercise-images
 ---
 
@@ -14,13 +13,12 @@ In this exercise, you will practice keyframing, animating the camera, and creati
 ### Tutorials: Levels 1, 2, and 3
 
 **Animation Tools**  
-Lynda Tutorials: [Maya Essentials 5: Animation Tools](http://www.lynda.com/Maya-tutorials/Maya-Essentials-5-Animation-Tools/96719-2.html)  
-Digital Tutors: [Camera Animation](http://www.digitaltutors.com/11/training.php?pid=376)  
+Lynda Tutorials: [Maya 2017 Essential Training: Animate in Maya](https://www.lynda.com/Maya-tutorials/Understanding-animation-interface/432363/514813-4.html?org=psu.edu)  
 
 ### Tutorials: Levels 2 and 3
 
 **Principles of Animation**  
-Digital Tutors: [12 Principles of Animation](http://www.digitaltutors.com/11/training.php?pid=297)  
+Lynda: [12 Principles of Animation](https://www.lynda.com/3ds-Max-tutorials/12-Principles-Animation-CG-Animators/474685-2.html?org=psu.edu)  
 
 ## Steps to Completion
 
@@ -47,7 +45,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
    - Your sphere should now loop seamlessly with the beginning of the animation. 
 4. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
 5. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L1.zip._**
-6. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+6. Upload the .zip file to the submission dropbox.
 7. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 1_ folder structure**
@@ -88,7 +86,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
    - At least 10 seconds of animation at 24 frames per second (240 frames)
 4. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
 5. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
-6. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+6. Upload the .zip file to the submission dropbox.
 7. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 2_ folder structure**
@@ -129,7 +127,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
    - At least 10 seconds of animation at 24 frames per second (240 frames)
 4. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
 5. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L3.zip._**
-6. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
+6. Upload the .zip file to the submission dropbox.
 7. Ensure you’ve included everything properly. Failure to ensure that you’ve uploaded the file will result in your exercise being graded according the grading criteria.
 
 **Example _Level 3_ folder structure**
