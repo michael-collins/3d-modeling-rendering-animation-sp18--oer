@@ -14,25 +14,18 @@ In this exercise, you will practice creating a rig for a polygon mesh and adding
 
 **Level 1: Novice Students**
 
-**Rigging**  
-Digital Tutors: [Beginner’s Guide to Rigging](http://www.digitaltutors.com/11/training.php?pid=502)  
 Lynda.com: [Animation Tools](http://www.lynda.com/Maya-tutorials/Maya-Essentials-5-Animation-Tools/96719-2.html)
+
+Lynda.com: [Cartoon Rigging](https://www.lynda.com/Maya-tutorials/Rigging-Cartoon-Character-Maya/191956-2.html?org=psu.edu)
 
 **Levels 2 and 3: Intermediate & Experienced Students**
 
-**Rigging**  
-Digital Tutors: [Creating a Character Rig](http://www.digitaltutors.com/11/training.php?vid=19169&autoplay=1)  
-Lynda.com: [Character Rigging](http://www.lynda.com/Maya-tutorials/Character-Rigging-in-Maya/92564-2.html)  
+Lynda.com: [Character Rigging](https://www.lynda.com/Maya-tutorials/Character-Rigging-in-Maya/92564-2.html?org=psu.edu)  
 
-**Levels 3: Experienced Students**
+**Levels 3: Experienced Students**  
+[Face rigging](https://www.lynda.com/Maya-tutorials/Facial-Rigging-Maya/149842-2.html?org=psu.edu)
 
-**Principles of Animation**  
-Digital Tutors: [Character Rigging for Production](http://www.digitaltutors.com/11/training.php?pid=321)  
-Digital Tutors: [12 Principles of Animation](http://www.digitaltutors.com/11/training.php?pid=297)
-
-**Optional Learning**
-
-Lynda Tutorials: [Animation Principles](http://www.lynda.com/Maya-tutorials/Character-Animation-Fundamentals-with-Maya/54994-2.html)
+Lynda Tutorials: [12 Principles of Animation](https://www.lynda.com/3ds-Max-tutorials/12-Principles-Animation-CG-Animators/474685-2.html?org=psu.edu)
 
 ## Steps to Completion
 
@@ -42,7 +35,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 
 ### <a name="level-1"></a>Level 1:
 
-1. Watch the level 1 rigging tutorials from Digital Tutors.
+1. Watch the level 1 rigging tutorials.
 2. Download the base Maya [rigging project folder](https://drive.google.com/file/d/0BzXX6rmROMNWOEFkZ2hjZnJORU0/view?usp=sharing).
 3. Rename the downloaded project folder to: **_{{ page.submission-id }}-L1_**
 4. Set your project to the downloaded folder.
@@ -86,12 +79,12 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 
 ### <a name="level-2"></a>Level 2:
 
-1. Watch the level 2 rigging tutorials from Lynda and Digital Tutors.
+1. Watch the level 2 cartoon character animation tutorials.
 2. Create a new project folder called **_{{ page.submission-id }}-L2_**, set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_** → **_Accept_**.
 3. Build a simple biped character mesh.
 4. Create joints, IKs, and controls for the head, arms, and legs.
 5. Bind your rig to your mesh.
-6. Keyframe your character’s movement, showing the versatility of your rig over 120 frames.
+6. Create a text animation of your character’s movement, showing the versatility of your rig over 120 frames.
 7. Save your scene as **_{{ page.submission-id }}_** in the scenes folder.
 8. Compress the project folder once you’ve completed the tutorial and rename it **_{{ page.submission-id }}-L2.zip._**
 9. Upload the .zip file to the [submission dropbox]({{ page.assignment-dropbox }})
@@ -126,7 +119,7 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 
 ### <a name="level-3"></a>Level 3:
 
-1. Watch the animation tutorials from Lynda and Digital Tutors.
+1. Watch the tutorials from the learning resources.
 2. Create a new project folder called **_{{ page.submission-id }}-L3_**, set your scene to the project folder, and create the sub folders by choosing **_File_** → **_Project Window_** → **_Accept_**.
 3. Create a fully rigged character including a center of gravity control, limb and body part controls, rotation constraints, and set-driven keys.
 4. Create a 10 second 240 frame animation expressing one of the 12 animation principles.
