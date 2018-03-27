@@ -1,13 +1,10 @@
 ---
-layout: post
+layout: schedule-post
 title: Project 2 Test Renders Due
 categories: project
+assignment: project-2
+assignment-part: test-renders
 comments: false
-published: false
-assignment-dropbox: https://psu.box.com/signup/collablink/d_7101553017/386ea38d09c2b
-assignment-doc: projects/thirty-seconds-of-sound.html
-excerpt:
+published: true
 ---
-
-[Project 2 Documentation]({{ site.baseurl }}/{{ page.assignment-doc }})  
-[Project 2 Dropboxes]({{ page.assignment-dropbox }})
+{% include schedule-post-assignment-proj.html %}

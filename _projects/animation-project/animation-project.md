@@ -1,5 +1,5 @@
 ---
-title: Thirty Seconds of Sound
+title: Animation Project
 subtitle: A 30 second animated short film project
 layout: project
 theme: cycle
@@ -16,17 +16,16 @@ A successful project will demonstrate understanding and mastery of 3D tools and 
 ## Project Completion Methodology
 You will go through a variety of different project steps including:
 
-  1. Sound identification,
-  2. reference gathering and concept development,
-  3. modeling and texture map production,
-  4. animation,
-  5. animatic editing,
-  5. lighting,
-  6. surface shader configuring,
-  7. rendering,
-  8. feedback and iterative improvement,
-  9. color grading and finishing,
-  10. and writing reflection.
+  1. Sound identification;
+  2. reference gathering and concept development;
+  3. modeling, surfaces, and texture map production;
+  4. animation;
+  5. animatic editing;
+  5. lighting;
+  6. rendering,
+  7. feedback and iterative improvement,
+  8. color grading and finishing,
+  9. and writing reflection.
 
 ## Inspiration:  
 [30s.ec](http://30s.ec/)  
@@ -52,35 +51,42 @@ David O'Reilly: [Childhood - [Adult Swim]](https://vimeo.com/103551096), [Bomb](
 
 ## Deliverables
 
-1. **Concept development: Sound file, reference sheet, and concept drawings (Due: 3/29/2016)**
-  - Dropbox: [Project 2 Concepts](https://psu.box.com/signup/collablink/d_7101704513/133a4939330b51)
+When uploading files to the dropboxes, ensure that you use the naming conventions and folder structure, listed below.
+
+1. **{{site.assignments.project-2.concepts.title}} (Due: {{site.assignments.project-2.concepts.due-date}})**
+  - Dropbox: [{{site.assignments.project-2.concepts.title}}]({{site.assignments.project-2.concepts.dropbox-url}})
   - Requirements: 
      - 3 to 5 different written ideas. What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/)
      - Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/).
      - Visual reference sheet(s): [Example of visual reference sheet](http://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
      - Concept drawings: Add scans or photographs. These must be 'well-photographed' and cropped/straightened photos of your concept drawings and text.
-2. **Storyboards (Due: 4/12/2016)**
-  - Dropbox: [Project 2 Storyboards](https://psu.box.com/signup/collablink/d_7102368325/13208faafa929e)
+2. **{{site.assignments.project-2.animatic.title}} (Due: {{site.assignments.project-2.animatic.due-date}})**
+  - Dropbox: [{{site.assignments.project-2.animatic.title}}]({{site.assignments.project-2.animatic.dropbox-url}})
   - Requirements: 
-     - Use this [16x9 aspect ratio storyboard template]({{ site.baseurl }}/assets/exercise-downloads/storyboard-template.pdf)
-3. **Edited Playblasts (Due: 4/16/2016)**
-  - Dropbox: [Project 2 Edited Playblasts](https://psu.box.com/signup/collablink/d_7101863309/13c106b7ba7535)
-  - Requirements: 
-     - Create a 30 second compressed .mp4 of your playblasts edited with sound. This is also known as an animatic. Please consider relevant aspects of camera, composition, staging, pacing, and animation. 
-     - 1080HD preset
-4. **Test renders (Due: 4/18/2016)**
-  - Dropbox: [Project 2 Test Renders](https://psu.box.com/signup/collablink/d_7102349925/13b4f8aba1a6a5)
-  - Requirements: 
+     - Create a 15-30 second compressed .mp4 of your playblasts edited with sound. This is also known as an animatic. Please consider relevant aspects of camera, composition, staging, pacing, and animation. 
      - 1080 HD preset
-     - Must use test renders from [RenderRocket.com](http://www.renderrocket.com)
-5. **Final submission (Due: 4/26/2016)**
-  - Dropbox: [Project 2 Final Submission](https://psu.box.com/signup/collablink/d_7102334461/13709c6b861d52)
+3. **{{site.assignments.project-2.test-renders.title}} (Due: {{site.assignments.project-2.test-renders.due-date}})**
+  - Dropbox: [{{site.assignments.project-2.test-renders.title}}]({{site.assignments.project-2.test-renders.dropbox-url}})
+  - Note: 20 second render times per frame takes 4 hours for a computer to render 30 seconds worth of frames
   - Requirements: 
-     - 080 HD preset
-6. **Statement (Due: 4/26/2016)**
-  - Dropbox: [Project 2 Statement](hhttps://psu.box.com/signup/collablink/d_7102338677/133f89ba3f1b8f)
+     - 3 to 5 test renders, each from a different part of the animation
+     - 1080 HD preset
+     - Render time must be under a minute (unless you plan to pay for an online renderfarm)
+4. **{{site.assignments.project-2.final-submission.title}} (Due: {{site.assignments.project-2.final-submission.due-date}})**
+  - Dropbox: [{{site.assignments.project-2.final-submission.title}}]({{site.assignments.project-2.final-submission.dropbox-url}})
+  - Requirements: 
+     - Upload .mp4 video file in H.264 format
+     - `.txt` file with link to vimeo
+5. **{{site.assignments.project-2.statement.title}} (Due: {{site.assignments.project-2.statement.due-date}})**
+  - Dropbox: [{{site.assignments.project-2.statement.title}}]({{site.assignments.project-2.statement.dropbox-url}})
   - Requirements: 
      - Write and add a statement format named (min 150 words) called **_statement.doc_** to the **_statement_** folder
+6. **{{site.assignments.project-2.post-crit-revision.title}} (Due: {{site.assignments.project-2.post-crit-revision.due-date}})**
+  - Dropbox: [{{site.assignments.project-2.post-crit-revision.title}}]({{site.assignments.project-2.post-crit-revision.dropbox-url}})
+  - Requirements: 
+     - Upload .mp4 video file in H.264 format
+     - `.txt` file with link to vimeo
+
 
 ### Naming Conventions
 
@@ -90,44 +96,44 @@ Project 2
 |
 ├── concepts/
 |   |
-|   └── concepts-[YOURUSERID].zip/
+|   └── [YOURUSERID]-concepts.zip/
 |       |
-|       ├── [SOUNDCLIP]-[YOURUSERID].wav OR [SOUNDCLIP]-[YOURUSERID].mp3 OR [SOUNDCLIP]-[YOURUSERID].aiff
-|       ├── referencesheet-[#]-[YOURUSERID].jpg
-|       ├── sketch-[#]-[YOURUSERID].jpg
-|       └── ...
-|
-|
-├── storyboards/
-|   |
-|   └── storyboards-[YOURUSERID].zip/
-|       |
-|       ├── storyboards-[#]-[YOURUSERID].png
+|       ├── [YOURUSERID]-[SOUNDCLIP].wav OR [YOURUSERID]-[SOUNDCLIP].mp3 OR [YOURUSERID]-[SOUNDCLIP].aiff
+|       ├── [YOURUSERID]-referencesheet-[#].jpg
+|       ├── [YOURUSERID]-sketch-[#].jpg
 |       └── ...
 |
 |       
-├── edited-playblasts/
+├── animatic/
 |   |
-|   └── edited-playblast-[YOURUSERID].mp4
+|   └── [YOURUSERID]-animatic.mp4
 |
 |
 ├── test-renders/
 |   |
-|   └── test-renders-[YOURUSERID].zip/
+|   └── [YOURUSERID]-test-renders.zip/
 |       |
-|       ├── testrender-[#]-[YOURUSERID].jpg OR testrender-[#]-[YOURUSERID].png
+|       ├── [YOURUSERID]-testrender-[#].jpg OR [YOURUSERID]-testrender-[#].png
 |       └── ...
 |
 |
 ├── statement/
 |   |
-|   └── statement-[YOURUSERID].doc
+|   └── [YOURUSERID]-statement.doc
+|
+├── Final Submission/
+|   |
+|   └── [YOURUSERID]-final-submission.zip/
+|       |
+|       ├── [YOURUSERID]-vimeo-link.txt
+|       └── [YOURUSERID]-final-submission.mp4
 |
 |
-└── final-submission/
+└── Optional Post-crit Revision/
     |
-    ├── vimeo-link-[YOURUSERID].txt
-    └── final-submission-[YOURUSERID].mp4
-
+    └── [YOURUSERID]-revision.zip/
+        |
+        ├── [YOURUSERID]-vimeo-link.txt
+        └── [YOURUSERID]-final-submission.mp4
 ```
 

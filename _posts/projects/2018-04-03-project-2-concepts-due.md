@@ -1,9 +1,9 @@
 ---
 layout: schedule-post
-title: Project 2 Final Submission Due
+title: Project 2 Concepts Due
 categories: project
 assignment: project-2
-assignment-part: final-submission
+assignment-part: concepts
 comments: false
 published: true
 ---

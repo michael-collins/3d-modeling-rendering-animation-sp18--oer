@@ -16,7 +16,7 @@ excerpt:
   - ["The secret of animation"](https://vimeo.com/67501143)
   - [Snapperstech Face Rig](https://www.youtube.com/watch?v=z86YsS-pVsQ), [Snapperstech](http://snapperstech.com/)
   - Mechanical Rigs: [Decepticon Rig](https://vimeo.com/151246391), [Mechanical Cat](https://vimeo.com/51740519)
-  - [Muscle rigging](https://www.youtube.com/watch?v=VqC52ZxYDi4)
+  - [Medical Muscle rigging](https://www.youtube.com/watch?v=VqC52ZxYDi4)
 2. **Terminology**
   - IK/FK
   - Set Driven Key

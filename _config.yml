@@ -99,6 +99,7 @@ assignments:
       due-date: 2:30pm on February 13, 2018
       dropbox-url: https://psu.box.com/v/art314sp18-pr-1-look-dev
       title: Project 1 Look Development
+      doc: projects/speculative-design.html
     draft-renders:
       due-date: 2:30pm on February 15, 2018
       dropbox-url: https://psu.box.com/v/art314sp18-pr-1-draft-renders
@@ -124,6 +125,38 @@ assignments:
       dropbox-url: https://psu.box.com/v/art314sp18-pr-1-postcritique
       title: Project 1 Optional Post Critique Revision
       doc: projects/speculative-design.html
+  project-2:
+    doc: projects/animation-project.html
+    concepts:
+      title: Project 2 Concepts
+      due-date: 2:30pm on April 3, 2018
+      dropbox-url: https://psu.box.com/v/art314sp18-pr-2-concepts
+      doc: projects/animation-project.html
+    animatic:
+      title: Project 2 Animatic
+      due-date: 2:30pm on April 10, 2018
+      dropbox-url: https://psu.box.com/v/art314sp18-pr-2-animatic
+      doc: projects/animation-project.html
+    test-renders:
+      title: Project 2 Test renders
+      due-date: 2:30pm on April 17, 2018
+      dropbox-url: https://psu.box.com/v/art314sp18-pr-2-test-renders
+      doc: projects/animation-project.html
+    final-submission:
+      title: Project 2 Final submission
+      due-date: 2:30pm on April 24, 2018
+      dropbox-url: https://psu.box.com/v/art314sp18-pr-2-final
+      doc: projects/animation-project.html
+    statement:
+      title: Project 2 Statement
+      due-date: 2:30pm on April 24, 2018
+      dropbox-url: https://psu.box.com/v/art314sp18-pr-2-statement
+      doc: projects/animation-project.html
+    post-crit-revision:
+      title: Project 2 Post-critique Revision
+      due-date: 2:30pm on April 28, 2018
+      dropbox-url: https://psu.box.com/v/art314sp18-pr-2-postcritique
+      doc: projects/animation-project.html
   # - exercise: maya-modeling-image-planes
   #   title: Intro to Modeling in Maya
   #   subtitle: testing config
