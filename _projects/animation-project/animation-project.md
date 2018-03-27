@@ -1,23 +1,23 @@
 ---
-title: Animation Project
-subtitle: A 30 second animated short film project
+title: 30 Seconds of Animation
+subtitle: A 3D animated short film project
 layout: project
-theme: cycle
+theme: cycles
 ---
 
-# Theme: "{{ page.theme }}"
+## Description
 
-For this project, you will design, model, texture, animate, and render a thirty second animation in response to sound that you find in the **Experimental** category on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) to interpret the project theme, [{{ page.theme }}](http://www.dictionary.com/browse/{{ page.theme }}).
+For this project, you produce an animation centered around the theme of **"{{ page.theme }}"**. You will design, model, texture, animate, and render a **30 second animation** in response to sound that you find in the **Experimental** category on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/) to interpret the project theme, [{{ page.theme }}](http://www.dictionary.com/browse/{{ page.theme }}). Pay special attention to the [audio track's licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that claims to derivatives in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
-You will critically reflect on your work in a 150 word work statement.
+You will also critically reflect on your work and the poject theme in a 150 word work statement.
 
-A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), [attention to detail](http://creativitywindow.com/2012/06/key-elements-of-product-photography) and [composition](http://www.digitalcameraworld.com/2012/04/12/10-rules-of-photo-composition-and-why-they-work/), and lead to discussion about the kind of reality needed to make these objects possible and the importance of pursuing or not pursuing such realities.
+A successful project will demonstrate understanding and mastery of 3D tools and processes, application of [formal design principles](http://www.getty.edu/education/teachers/building_lessons/principles_design.pdf), attention to detail and composition, and lead to discussion about your work during a critique.
 
-## Project Completion Methodology
+## Completion Process
 You will go through a variety of different project steps including:
 
   1. Sound identification;
-  2. reference gathering and concept development;
+  2. reference gathering, visual research, and concept development;
   3. modeling, surfaces, and texture map production;
   4. animation;
   5. animatic editing;
@@ -44,6 +44,7 @@ David O'Reilly: [Childhood - [Adult Swim]](https://vimeo.com/103551096), [Bomb](
 
 
 ## Constraints
+
 - Use 3D tools to produce animation
 - 30 seconds of animation
 - All assets used in the production of the work must be created by you, be appropriately licensed for use, or be appropriated in a transformative way that significantly alters the nature of the original asset.
