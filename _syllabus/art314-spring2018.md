@@ -27,7 +27,7 @@ course-description-link: http://bulletins.psu.edu/undergrad/courses/A/ART/314/20
 
 **Times:** {{ page.meeting-time}}
 
-**Instructor:** {{ page.instructor}}
+**Instructor:** {{ page.instructor-name}}
 
 **Office Hours:** {{ page.office-hours}}
 
