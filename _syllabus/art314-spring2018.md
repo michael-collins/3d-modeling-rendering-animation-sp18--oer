@@ -168,7 +168,3 @@ An integral aspect this class is viewing, discussing, and responding to your own
 * * *
 
 {% include calendar.md %}
-
-* * *
-
-Art 314 Syllabus is Copyright Penn State University
